@@ -1,0 +1,2 @@
+<?php http_response_code(403); exit; ?>
+{"users": {"1": {"id": 1, "name": "rafaelgwapo", "low": "rafaelgwapo", "pass": "$2y$12$vR.UPcuFiPuqdrUrOwpfguS7vJGDkKfRfqfK1Fy2IrmBLPk99KzJm", "role": "owner", "banned": 0, "data": {}}}, "sessions": {}, "next": 2}
